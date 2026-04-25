@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="420" viewBox="0 0 820 420">
+<rect width="100%" height="100%" fill="white" />
+<line x1="50" y1="370" x2="770" y2="370" stroke="black" />
+<line x1="50" y1="50" x2="50" y2="370" stroke="black" />
+<text x="410.0" y="28" text-anchor="middle" font-size="18">Ranked Epitope Score Distribution</text>
+<rect x="54.00" y="352.78" width="64.00" height="17.22" fill="#2f6f8f" />
+<rect x="126.00" y="301.11" width="64.00" height="68.89" fill="#2f6f8f" />
+<rect x="198.00" y="146.11" width="64.00" height="223.89" fill="#2f6f8f" />
+<rect x="270.00" y="60.00" width="64.00" height="310.00" fill="#2f6f8f" />
+<rect x="342.00" y="266.67" width="64.00" height="103.33" fill="#2f6f8f" />
+<rect x="414.00" y="266.67" width="64.00" height="103.33" fill="#2f6f8f" />
+<rect x="486.00" y="266.67" width="64.00" height="103.33" fill="#2f6f8f" />
+<rect x="558.00" y="352.78" width="64.00" height="17.22" fill="#2f6f8f" />
+<rect x="630.00" y="301.11" width="64.00" height="68.89" fill="#2f6f8f" />
+<rect x="702.00" y="352.78" width="64.00" height="17.22" fill="#2f6f8f" />
+</svg>

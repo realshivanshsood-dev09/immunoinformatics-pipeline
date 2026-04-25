@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300">
+<rect width="100%" height="100%" fill="white" />
+<text x="550.0" y="28" text-anchor="middle" font-size="18">Epitope Position Mapping Across the Protein</text>
+<line x1="70" y1="250" x2="1030" y2="250" stroke="black" />
+<text x="20" y="95" font-size="14">MHC_I</text>
+<line x1="70" y1="90" x2="1030" y2="90" stroke="#dddddd" stroke-dasharray="4,4" />
+<text x="20" y="155" font-size="14">MHC_II</text>
+<line x1="70" y1="150" x2="1030" y2="150" stroke="#dddddd" stroke-dasharray="4,4" />
+<text x="20" y="215" font-size="14">B_CELL</text>
+<line x1="70" y1="210" x2="1030" y2="210" stroke="#dddddd" stroke-dasharray="4,4" />
+<circle cx="81.16" cy="90" r="5" fill="#d95f02" />
+<circle cx="84.88" cy="150" r="5" fill="#1b9e77" />
+<circle cx="118.37" cy="210" r="5" fill="#7570b3" />
+<circle cx="122.09" cy="210" r="5" fill="#7570b3" />
+<circle cx="125.81" cy="210" r="5" fill="#7570b3" />
+<circle cx="129.53" cy="210" r="5" fill="#7570b3" />
+<circle cx="133.26" cy="210" r="5" fill="#7570b3" />
+<circle cx="133.26" cy="90" r="5" fill="#d95f02" />
+<circle cx="151.86" cy="210" r="5" fill="#7570b3" />
+<circle cx="155.58" cy="210" r="5" fill="#7570b3" />
+<circle cx="159.30" cy="210" r="5" fill="#7570b3" />
+<circle cx="159.30" cy="150" r="5" fill="#1b9e77" />
+<circle cx="181.63" cy="90" r="5" fill="#d95f02" />
+<circle cx="274.65" cy="90" r="5" fill="#d95f02" />
+<circle cx="282.09" cy="150" r="5" fill="#1b9e77" />
+<circle cx="360.23" cy="210" r="5" fill="#7570b3" />
+<circle cx="363.95" cy="210" r="5" fill="#7570b3" />
+<circle cx="363.95" cy="90" r="5" fill="#d95f02" />
+<circle cx="378.84" cy="210" r="5" fill="#7570b3" />
+<circle cx="393.72" cy="150" r="5" fill="#1b9e77" />
+<circle cx="442.09" cy="90" r="5" fill="#d95f02" />
+<circle cx="475.58" cy="210" r="5" fill="#7570b3" />
+<circle cx="497.91" cy="210" r="5" fill="#7570b3" />
+<circle cx="501.63" cy="210" r="5" fill="#7570b3" />
+<circle cx="505.35" cy="210" r="5" fill="#7570b3" />
+<circle cx="509.07" cy="210" r="5" fill="#7570b3" />
+<circle cx="512.79" cy="210" r="5" fill="#7570b3" />
+<circle cx="516.51" cy="210" r="5" fill="#7570b3" />
+<circle cx="520.23" cy="210" r="5" fill="#7570b3" />
+<circle cx="523.95" cy="210" r="5" fill="#7570b3" />
+<circle cx="527.67" cy="210" r="5" fill="#7570b3" />
+<circle cx="531.40" cy="210" r="5" fill="#7570b3" />
+<circle cx="535.12" cy="210" r="5" fill="#7570b3" />
+<circle cx="538.84" cy="210" r="5" fill="#7570b3" />
+<circle cx="542.56" cy="210" r="5" fill="#7570b3" />
+<circle cx="546.28" cy="210" r="5" fill="#7570b3" />
+<circle cx="550.00" cy="210" r="5" fill="#7570b3" />
+<circle cx="553.72" cy="210" r="5" fill="#7570b3" />
+<circle cx="553.72" cy="90" r="5" fill="#d95f02" />
+<circle cx="557.44" cy="210" r="5" fill="#7570b3" />
+<circle cx="561.16" cy="210" r="5" fill="#7570b3" />
+<circle cx="561.16" cy="150" r="5" fill="#1b9e77" />
+<circle cx="564.88" cy="210" r="5" fill="#7570b3" />
+<circle cx="568.60" cy="210" r="5" fill="#7570b3" />
+<circle cx="572.33" cy="210" r="5" fill="#7570b3" />
+<circle cx="576.05" cy="210" r="5" fill="#7570b3" />
+<circle cx="579.77" cy="210" r="5" fill="#7570b3" />
+<circle cx="587.21" cy="210" r="5" fill="#7570b3" />
+<circle cx="590.93" cy="210" r="5" fill="#7570b3" />
+<circle cx="594.65" cy="210" r="5" fill="#7570b3" />
+<circle cx="598.37" cy="210" r="5" fill="#7570b3" />
+<circle cx="661.63" cy="150" r="5" fill="#1b9e77" />
+<circle cx="702.56" cy="90" r="5" fill="#d95f02" />
+<circle cx="821.63" cy="210" r="5" fill="#7570b3" />
+<circle cx="832.79" cy="210" r="5" fill="#7570b3" />
+<circle cx="836.51" cy="210" r="5" fill="#7570b3" />
+<circle cx="843.95" cy="210" r="5" fill="#7570b3" />
+<circle cx="873.72" cy="90" r="5" fill="#d95f02" />
+<circle cx="877.44" cy="150" r="5" fill="#1b9e77" />
+<circle cx="955.58" cy="210" r="5" fill="#7570b3" />
+<circle cx="959.30" cy="210" r="5" fill="#7570b3" />
+<circle cx="963.02" cy="210" r="5" fill="#7570b3" />
+<circle cx="966.74" cy="210" r="5" fill="#7570b3" />
+<circle cx="970.47" cy="210" r="5" fill="#7570b3" />
+<circle cx="974.19" cy="210" r="5" fill="#7570b3" />
+<circle cx="977.91" cy="90" r="5" fill="#d95f02" />
+<circle cx="1000.23" cy="150" r="5" fill="#1b9e77" />
+</svg>

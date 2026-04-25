@@ -1,0 +1,11 @@
+peptide,position,allele,binding_affinity,binding_rank,epitope_class,source_tool,peptide_length,bepipred_score,antigenicity,allergenicity,toxicity,passes_antigenicity,passes_toxicity,passes_allergenicity,passes_binding,passes_filters,norm_antigenicity,norm_binding_affinity,norm_toxicity,norm_allergenicity,composite_score
+PERNECFLSHKDDSP,160,HLA-DRB1*01:01,280.0,5.8,MHC_II,NetMHCIIpan,15,0.0,0.735,0.1067,0.1133,True,True,True,True,True,0.9788,0.6206,0.0187,0.3631,0.5517
+HRFKDLGEE,31,HLA-B*07:02,120.0,1.4,MHC_I,NetMHCpan,9,0.0,0.6033,0.0611,0.1778,True,True,True,True,True,0.4892,0.9368,0.4817,0.0,0.4737
+NECFLSHKD,171,HLA-B*15:01,190.0,1.6,MHC_I,NetMHCpan,9,0.0,0.6183,0.0722,0.1444,True,True,True,True,True,0.545,0.7984,0.2419,0.0884,0.465
+SRGVFRRDT,18,HLA-A*11:01,88.0,0.7,MHC_I,NetMHCpan,9,0.0,0.5883,0.1167,0.1556,True,True,True,True,True,0.4335,1.0,0.3223,0.4427,0.4591
+FGDELCKVASLRETY,133,HLA-DRB1*15:01,98.0,1.2,MHC_II,NetMHCIIpan,15,0.0,0.5883,0.1033,0.1633,True,True,True,True,True,0.4335,0.9802,0.3776,0.336,0.4536
+DTHKSEIAHRFKDLG,25,HLA-DRB1*07:01,210.0,3.5,MHC_II,NetMHCIIpan,15,0.0,0.6567,0.0833,0.1933,True,True,True,True,True,0.6877,0.7589,0.593,0.1768,0.4376
+RNECFLSHKDDSPD,122,B-cell-linear,517.63,3.731,B_CELL,BepiPred_simulated,14,0.6891,0.7257,0.1,0.1107,True,True,True,True,True,0.9442,0.1509,0.0,0.3097,0.3599
+PERNECFLSHKDDS,120,B-cell-linear,530.09,3.944,B_CELL,BepiPred_simulated,14,0.6713,0.7257,0.1,0.1107,True,True,True,True,True,0.9442,0.1263,0.0,0.3097,0.35
+ERNECFLSHKDDSP,121,B-cell-linear,530.09,3.944,B_CELL,BepiPred_simulated,14,0.6713,0.7257,0.1,0.1107,True,True,True,True,True,0.9442,0.1263,0.0,0.3097,0.35
+FWGKYLYEIARRHPY,218,HLA-DRB1*04:05,110.0,1.4,MHC_II,NetMHCIIpan,15,0.0,0.61,0.1867,0.2267,True,True,True,True,True,0.5141,0.9565,0.8327,1.0,0.3376

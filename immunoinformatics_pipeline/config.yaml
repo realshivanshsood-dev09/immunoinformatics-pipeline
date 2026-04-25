@@ -1,0 +1,32 @@
+input_fasta: data/sample_protein.fasta
+netmhc_i_file: data/sample_netmhcpan.csv
+netmhc_ii_file: data/sample_netmhciipan.csv
+output_dir: results
+long_sequence_segment_length: 1200
+long_sequence_overlap: 50
+weights:
+  antigenicity: 0.35
+  binding_affinity: 0.4
+  toxicity: 0.15
+  allergenicity: 0.1
+thresholds:
+  min_antigenicity: 0.45
+  max_toxicity: 0.45
+  max_allergenicity: 0.55
+  max_rank:
+    mhc_i: 2.0
+    mhc_ii: 10.0
+selection:
+  top_n: 10
+  max_bcell_epitopes: 3
+construct:
+  adjuvant_sequence: EAAAKGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRK
+  add_adjuvant: true
+  adjuvant_linker: EAAAK
+  ctl_linker: AAY
+  htl_linker: GPGPG
+simulation:
+  mhc_i_lengths: [8, 9, 10, 11]
+  mhc_ii_lengths: [13, 14, 15, 16]
+  bcell_window: 14
+  bcell_min_score: 0.58
